@@ -1,16 +1,104 @@
-## Hi there 👋
+# 👋 Hi, I'm Fadwa Hany
 
-<!--
-**Fadwahanyy/Fadwahanyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Engineer | Machine Learning Engineer | Backend Developer**
 
-Here are some ideas to get you started:
+Computer Science student at Nile University with hands-on experience building **scalable data pipelines, machine learning systems, and backend APIs**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+* ⚙️ Build **ETL/ELT pipelines** using Airflow, Spark, and SQL
+* 📊 Design **data systems** with Hadoop HDFS and distributed processing
+* 🧠 Develop **machine learning models & recommendation systems**
+* 🔌 Create **backend APIs** using FastAPI & SQLAlchemy
+
+---
+
+## 🏆 Featured Projects
+
+### 🎬 Movie Recommendation System (Big Data)
+
+* Apache Spark MLlib (ALS) + Hadoop HDFS
+* MovieLens 32M dataset
+* RMSE: **0.81** (vs 3.68 baseline)
+* Real-time recommendations (<2s) via Streamlit
+
+---
+
+### 🫀 Early Cardiovascular Disease Detection
+
+* End-to-end ML pipeline (70K+ records)
+* Gradient Boosting: **ROC-AUC 0.79 | F1 0.72**
+* Advanced feature engineering & model tuning
+
+---
+
+### ⚙️ Sales ETL Pipeline (Airflow)
+
+* Automated ETL workflows with Airflow
+* PostgreSQL + data warehouse design
+* Scalable and modular pipeline architecture
+
+---
+
+### 🔌 FastAPI Backend API
+
+* RESTful API with SQLAlchemy
+* Full CRUD operations + migrations
+* Optimized database queries and performance
+
+---
+
+### 🤖 NeuroBuddy (LLM System)
+
+* Fine-tuned Qwen LLM using LoRA
+* Built RAG pipeline for intelligent responses
+* Evaluated with BERTScore (F1: 0.88), BLEU, ROUGE
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+Python, SQL, C++
+
+**Data Engineering**
+Apache Spark, PySpark, Airflow, Hadoop HDFS, ETL/ELT
+
+**Machine Learning**
+Scikit-learn, Spark MLlib, Pandas
+
+**Databases**
+PostgreSQL, ClickHouse, OLTP/OLAP, Data Warehousing
+
+**Backend**
+FastAPI, SQLAlchemy, REST APIs
+
+**Tools**
+Docker, Git, Linux, Streamlit
+
+---
+
+## 📊 Experience
+
+💼 **Data Science & AI Intern (Data Engineering)** — Classera
+
+* Built ETL pipelines with Airflow & PostgreSQL
+* Designed data warehouse schemas
+* Developed backend APIs with FastAPI
+* Optimized SQL queries & ensured data quality
+
+---
+
+## 📫 Connect with Me
+
+* 🔗 LinkedIn: https://linkedin.com/in/fadwahany
+* 💻 GitHub: https://github.com/Fadwahanyy
+* 📧 Email: [fadwahany2030@gmail.com](mailto:fadwahany2030@gmail.com)
+
+---
+
+## ⭐ Philosophy
+
+> I build systems that **scale, learn, and deliver real impact.**
