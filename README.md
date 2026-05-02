@@ -23,7 +23,7 @@ Computer Science student at Nile University with hands-on experience building **
 
 ## 🏆 Featured Projects
 
-### 🎬 Movie Recommendation System (Big Data)
+### 🎬 [Movie Recommendation System](https://github.com/Fadwahanyy/Movie_Recommendation_System)
 
 * Apache Spark MLlib (ALS) + Hadoop HDFS
 * MovieLens 32M dataset
@@ -32,7 +32,7 @@ Computer Science student at Nile University with hands-on experience building **
 
 ---
 
-### 🫀 Early Cardiovascular Disease Detection
+### 🫀 [Early Cardiovascular Disease Detection](https://github.com/Fadwahanyy/early-cardiovascular-disease-detection)
 
 * End-to-end ML pipeline (70K+ records)
 * Gradient Boosting: **ROC-AUC 0.79 | F1 0.72**
@@ -40,7 +40,7 @@ Computer Science student at Nile University with hands-on experience building **
 
 ---
 
-### ⚙️ Sales ETL Pipeline (Airflow)
+### ⚙️ [Sales ETL Pipeline (Airflow)](https://github.com/Fadwahanyy/Task-6-Sales-Etl-Airflow)
 
 * Automated ETL workflows with Airflow
 * PostgreSQL + data warehouse design
@@ -48,7 +48,7 @@ Computer Science student at Nile University with hands-on experience building **
 
 ---
 
-### 🔌 FastAPI Backend API
+### 🔌 [FastAPI Backend API](https://github.com/Fadwahanyy/Task-4-ORM_with_FastAPI)
 
 * RESTful API with SQLAlchemy
 * Full CRUD operations + migrations
@@ -104,6 +104,11 @@ Docker, Git, Linux, Streamlit
 * 📧 Email: [fadwahany2030@gmail.com](mailto:fadwahany2030@gmail.com)
 
 ---
+## 📊 GitHub Stats
+
+![Fadwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fadwahanyy&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadwahanyy&layout=compact&theme=tokyonight)
 
 ## ⭐ Philosophy
 
