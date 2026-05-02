@@ -104,11 +104,6 @@ Docker, Git, Linux, Streamlit
 * 📧 Email: [fadwahany2030@gmail.com](mailto:fadwahany2030@gmail.com)
 
 ---
-## 📊 GitHub Stats
-
-![Fadwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fadwahanyy&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadwahanyy&layout=compact&theme=tokyonight)
 
 ## ⭐ Philosophy
 
