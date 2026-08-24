@@ -8,7 +8,7 @@
 
 🎯 **Aspiring Data Engineer | Machine Learning Engineer | Backend Developer**
 
-Computer Science student at Nile University with hands-on experience building **scalable data pipelines, machine learning systems, and backend APIs**.
+Computer Science graduate from Nile University with hands-on experience building **scalable data pipelines, machine learning systems, and backend APIs**.
 
 ---
 
